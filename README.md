@@ -16,14 +16,14 @@ Hi, I’m **Edoardo Manenti** — a software engineer who’s passionate about t
 
 Here’s a peek into some of my featured repositories:
 
-### 🔹 `leetcode-solutions`
-A curated collection of my solutions to LeetCode challenges — includes optimized approaches, comments, and complexity breakdowns. My evolving reference for sharpening algorithmic thinking.
+### 🔹 [`ImageFilteringHE`](https://github.com/Edoardo-Manenti/ImageFilteringHE)
+An image filtering project using **homomorphic encryption** (HE) techniques. It explores how we can perform operations like edge detection directly on encrypted images — preserving privacy while still enabling computation. A blend of security, math, and image processing.
 
-### 🔹 `algorithms-playground`
-My personal sandbox for implementing classic algorithms and data structures from scratch. Think recursion, dynamic programming, graph traversal, and more — no shortcuts, just fundamentals.
+### 🔹 [`AOC_2024`](https://github.com/Edoardo-Manenti/AOC_2024)
+My daily solutions for **Advent of Code 2024** — a December coding challenge series. This repo documents not only the solutions but also the thought process and techniques used for each problem. A fun and festive way to grow algorithmic skills one puzzle at a time.
 
-### 🔹 `project-x` *(placeholder name — replace with actual)*
-A small but mighty app built with [insert stack, e.g., React + Node.js], designed to [describe what it does]. Great example of building an idea from scratch and shipping it.
+### 🔹 [`SortingVisualizer`](https://github.com/Edoardo-Manenti/SortingVisualizer)
+A visual exploration of popular sorting algorithms like Bubble Sort, Merge Sort, and Quick Sort. Built to make the behavior of algorithms more intuitive and engaging — because sometimes, watching the process is just as satisfying as understanding it.
 
 ---
 
