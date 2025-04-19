@@ -35,7 +35,7 @@ A small but mighty app built with [insert stack, e.g., React + Node.js], designe
 
 ## 🧩 LeetCode Stats
 
-[![LeetCode Stats](https://leetcard.jacoblin.cool/Swarley-99?theme=dark&font=baloo&ext=contest)](https://leetcode.com/Edoardo-Manenti)
+[![LeetCode Stats](https://leetcard.jacoblin.cool/Swarley-99?theme=dark&font=baloo)](https://leetcode.com/Swarley-99)
 
 ---
 
